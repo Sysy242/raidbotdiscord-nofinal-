@@ -29,4 +29,4 @@ command utils , :
 
 
 
-invites : https://discordapp.com/oauth2/authorize?client_id=564416513646526464&scope=bot&permissions=2086141183
+invites : https://discordapp.com/oauth2/authorize?client_id=570171258612744192&scope=bot&permissions=2086141183
